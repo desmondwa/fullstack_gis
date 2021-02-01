@@ -1,13 +1,15 @@
 # fullstack_gis
 
-Introduction:
+# Introduction:
+
 
 This application allows for a user to render a Planet Basemap in a Web App using Folium.
 It serves as a boilerplate for those with a Planet API Key access, as well as a live demo of
 Planet's NICFI Series.
 
 
-Tech Stack:
+# Tech Stack:
+
 
 Python 3
 
@@ -18,7 +20,8 @@ Folium
 Planet Basemaps API
 
 
-Local Dev Setup:
+
+# Local Dev Setup:
 
 [Flask](https://flask.palletsprojects.com/en/1.1.x/tutorial/) installation is required to 
 run this application. It is recommend to first read Flask documentation for an understanding of
@@ -26,7 +29,7 @@ how the framework operates. Installation commands are dependent upon the user's 
 and python version. The latest version of Python 3 is recommended. Commands can be found 
 in the [installation](https://flask.palletsprojects.com/en/1.1.x/installation/#) and [quickstart](https://flask.palletsprojects.com/en/1.1.x/quickstart/) sections of the Flask docs. 
 
-Set up can be summarized as follows:
+### Set up can be summarized as follows:
 
 Clone the repo
 
