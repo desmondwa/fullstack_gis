@@ -1,13 +1,8 @@
 from flask import Flask
 import folium
-from final.env import API_KEY
+from env import API_KEY
 
 app = Flask(__name__)
-
-
-# @app.route('/')
-# def hello_world():
-#     return 'Hello, World!'
 
 
 @app.route('/')
