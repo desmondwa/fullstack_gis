@@ -4,8 +4,7 @@
 
 
 This application allows for a user to render a Planet Basemap in a Web App using Folium.
-It serves as a boilerplate for those with a Planet API Key access, as well as a live demo of
-Planet's NICFI Series.
+It serves as a Flask and Folium boilerplate, as well as a live demo of Planet's NICFI Series.
 
 
 # Tech Stack:
